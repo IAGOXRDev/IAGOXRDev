@@ -1,16 +1,38 @@
-# ¡Hola! Soy IAGOXR 👋
+# Mr. Yellow Bunny Here.
 
-Desarrollador enfocado en C#, herramientas y desarrollo de proyectos como **ArfHook**.
+Software developer focused on C#, game cheating, modding, and system fuckingarround.
 
-### 🛠️ Tecnologías y Herramientas
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-### 📌 Proyectos Destacados
-- 🚀 **[ArfHook](https://github.com/IAGOXRDev/ArfHook)**: Descripción corta de tu proyecto principal.
-- 🎮 **Schedule1Mods**: Modding y utilidades en C#.
+### Tech Stack & Tools
 
-### 🌐 Conéctate conmigo
-- 🌍 Web: [arfhook.space](https://arfhook.space)
-- 💬 Comunidad: [Discord ArfHook](https://discord.com/invite/5ubGD6nAcJ)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### Key Projects
+
+- **[ArfHook](https://github.com/IAGOXRDev/ArfHook)**: Core framework and hooking solution.
+- **[Schedule1Mods](https://github.com/IAGOXRDev/Schedule1Mods)**: C# modifications and extensions.
+- **[ArfDownloads](https://github.com/IAGOXRDev/ArfDownloads)**: Automated scripts and utilities for environment setup.
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IAGOXRDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="IAGOXRDev's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAGOXRDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### Contact & Links
+
+- **Website:** [arfhook.space](https://arfhook.space)
+- **Discord Community:** [Join Server](https://discord.com/invite/5ubGD6nAcJ)
+- **Support Discord:** [Join Server](https://discord.com/invite/PtuFtTfsVy)
