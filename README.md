@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy IAGOXR 👋
 
-<!--
-**IAGOXRDev/IAGOXRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en C#, herramientas y desarrollo de proyectos como **ArfHook**.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Proyectos Destacados
+- 🚀 **[ArfHook](https://github.com/IAGOXRDev/ArfHook)**: Descripción corta de tu proyecto principal.
+- 🎮 **Schedule1Mods**: Modding y utilidades en C#.
+
+### 🌐 Conéctate conmigo
+- 🌍 Web: [arfhook.space](https://arfhook.space)
+- 💬 Comunidad: [Discord ArfHook](https://discord.com/invite/5ubGD6nAcJ)
