@@ -21,8 +21,6 @@ Software developer focused on C#, game cheating, modding, and system fuckingarro
 
 ---
 
-### GitHub Stats
-
 ![alt text](https://i.arfhook.space/i/HkWxtZ.png)
 
 ---
