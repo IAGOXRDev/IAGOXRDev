@@ -16,9 +16,8 @@ Software developer focused on C#, game cheating, modding, and system fuckingarro
 
 ### Key Projects
 
-- **[ArfHook](https://github.com/IAGOXRDev/ArfHook)**: Core framework and hooking solution.
+- **[ArfTattleTail](https://github.com/IAGOXRDev/ArfTattleHook)**: Core framework and hooking solution.
 - **[Schedule1Mods](https://github.com/IAGOXRDev/Schedule1Mods)**: C# modifications and extensions.
-- **[ArfDownloads](https://github.com/IAGOXRDev/ArfDownloads)**: Automated scripts and utilities for environment setup.
 
 ---
 
