@@ -26,5 +26,5 @@ Software developer focused on C#, game cheating, modding, and system fuckingarro
 ### Contact & Links
 
 - **Website:** [arfhook.space](https://arfhook.space)
-- **Discord Community:** [Join Server](https://discord.com/invite/5ubGD6nAcJ)
-- **Support Discord:** [Join Server](https://discord.com/invite/PtuFtTfsVy)
+- **Discord Fan Group:** [Join Server](https://discord.com/invite/5ubGD6nAcJ)
+- **Discord ArfHook:** [Join Server](https://discord.com/invite/PtuFtTfsVy)
