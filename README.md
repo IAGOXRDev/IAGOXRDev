@@ -20,9 +20,7 @@ Software developer focused on C#, game cheating, modding, and system fuckingarro
 - **[Schedule1Mods](https://github.com/IAGOXRDev/Schedule1Mods)**: Arfhook Mod menu for Schedule 1.
 
 ---
-
-![alt text](https://i.arfhook.space/i/HkWxtZ.png)
-
+![alt text](https://raw.githubusercontent.com/IAGOXRDev/ArfDownloads/main/ArfClient/ArfCakeLogos.png)
 ---
 
 ### Contact & Links
